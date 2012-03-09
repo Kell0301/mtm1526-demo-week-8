@@ -1,0 +1,12 @@
+.status {
+	font-weight: bold;
+	font-size: 1.25em;
+}
+
+.unavailable {
+	color: #f33;
+}
+
+.available {
+	color: #393;
+}
